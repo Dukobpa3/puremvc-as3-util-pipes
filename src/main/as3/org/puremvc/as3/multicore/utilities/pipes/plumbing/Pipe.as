@@ -26,7 +26,7 @@ package org.puremvc.as3.multicore.utilities.pipes.plumbing
 
 		/**
 		 * Connect another PipeFitting to the output.
-		 * 
+		 * <P>
 		 * PipeFittings connect to and write to other 
 		 * PipeFittings in a one-way, syncrhonous chain.</P>
 		 * 

@@ -12,7 +12,7 @@ package org.puremvc.as3.multicore.utilities.pipes.plumbing
 	 * Pipe Junction.
 	 * 
 	 * <P>
-	 * Manages Pipes for a Module. 
+	 * Manages Pipes for a Module.</P>
 	 * 
 	 * <P>
 	 * When you register a Pipe with a Junction, it is 

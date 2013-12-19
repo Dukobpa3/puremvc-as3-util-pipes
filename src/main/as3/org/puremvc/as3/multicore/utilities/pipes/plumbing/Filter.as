@@ -16,7 +16,7 @@ package org.puremvc.as3.multicore.utilities.pipes.plumbing
 	 * Filters may modify the contents of messages before writing them to 
 	 * their output pipe fitting. They may also have their parameters and
 	 * filter function passed to them by control message, as well as having
-	 * their Bypass/Filter operation mode toggled via control message.</p>  
+	 * their Bypass/Filter operation mode toggled via control message.</P>
 	 */ 
 	public class Filter extends Pipe
 	{
